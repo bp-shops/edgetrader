@@ -24,7 +24,7 @@ except ImportError:
 # 1. GitHub Gist (öffentlich, kein Token nötig)
 #    Erstelle einen öffentlichen Gist mit Datei "version.json"
 #    Gist-URL: https://gist.githubusercontent.com/{USER}/{GIST_ID}/raw/version.json
-GIST_URL = "https://gist.githubusercontent.com/bp-shops/edgetrader_version/raw/version.json"
+GIST_URL = "https://gist.githubusercontent.com/pb993/a2d8636b279a7fbd2e650ec8f5742b79/raw/version.json"
 
 # 2. GitHub Releases API (Fallback)
 #    Funktioniert mit öffentlichen Repos ohne Token
