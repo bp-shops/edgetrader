@@ -1,0 +1,531 @@
+================================================================================
+     EDGETRADER – ENDBENUTZER-LIZENZVEREINBARUNG (EULA)
+     Lizenzvereinbarung für Software-Endbenutzer
+================================================================================
+
+Software:      EdgeTrader – Universal Signal Bot
+Version:       1.1.0
+Stand:         Februar 2026
+
+Herausgeber:
+
+  BP-Shops – Philip Babuda
+  Ernst-Schenk-Str. 9b
+  91550 Dinkelsbühl
+  Deutschland
+
+  E-Mail: reklamation@bp-shops.com
+
+================================================================================
+
+WICHTIG – BITTE SORGFÄLTIG UND VOLLSTÄNDIG LESEN
+
+Diese Endbenutzer-Lizenzvereinbarung ("Vereinbarung", "EULA") ist ein
+rechtlich bindender Vertrag zwischen Ihnen ("Lizenznehmer", "Nutzer", "Sie")
+und BP-Shops – Philip Babuda ("Lizenzgeber", "Herausgeber", "wir", "uns")
+über die Nutzung der Software EdgeTrader – Universal Signal Bot
+("Software", "EdgeTrader", "Produkt").
+
+Durch die Installation, das Kopieren, den Download oder die anderweitige
+Nutzung dieser Software erklären Sie sich ausdrücklich mit sämtlichen
+Bedingungen dieser Vereinbarung einverstanden. Wenn Sie diesen Bedingungen
+NICHT zustimmen, dürfen Sie die Software nicht installieren, kopieren oder
+verwenden und müssen alle vorhandenen Kopien unverzüglich löschen.
+
+================================================================================
+§ 1 – VERTRAGSGEGENSTAND UND LIZENZBESCHREIBUNG
+================================================================================
+
+1.1  Der Lizenzgeber gewährt dem Lizenznehmer eine nicht-exklusive, nicht
+     übertragbare, widerrufliche und zeitlich begrenzte Lizenz zur Nutzung
+     der Software EdgeTrader auf EINEM (1) Computer bzw. Endgerät gemäß den
+     Bedingungen dieser Vereinbarung.
+
+1.2  EdgeTrader ist eine Desktop-Anwendung, die Telegram-Signal-Kanäle mit
+     Kryptowährungs- und Aktienbrokern verbindet und auf Grundlage
+     empfangener Handelssignale (LONG, SHORT, Take-Profit, Stop-Loss)
+     automatisierte Handelsaufträge an die jeweiligen Broker-APIs übermittelt.
+
+1.3  Unterstützte Broker und Plattformen umfassen unter anderem:
+     - Krypto-Futures-Broker: Binance Futures, Bybit, OKX und weitere
+     - Aktien-/CFD-Broker: Alpaca, Interactive Brokers, MetaTrader 5
+       und weitere
+     Die Verfügbarkeit einzelner Broker kann je nach Softwareversion
+     variieren.
+
+1.4  Die Software unterstützt sowohl Testnet-Umgebungen (Papierhandel/Demo)
+     als auch den Handel auf Live-Konten mit echtem Kapital. Der Nutzer ist
+     allein dafür verantwortlich, die korrekte Umgebung auszuwählen und zu
+     konfigurieren.
+
+1.5  Die Lizenz umfasst das Recht zur Nutzung der Software in der jeweils
+     erworbenen Version. Aktualisierungen (Updates) können vom Lizenzgeber
+     nach eigenem Ermessen bereitgestellt werden. Ein Anspruch auf
+     Aktualisierungen oder Weiterentwicklungen besteht nicht.
+
+================================================================================
+§ 2 – TESTVERSION (TRIAL)
+================================================================================
+
+2.1  Die Software kann ab dem Zeitpunkt der ersten Installation oder
+     Aktivierung sieben (7) Kalendertage lang kostenlos und unverbindlich
+     getestet werden ("Testphase", "Trial").
+
+2.2  Während der Testphase steht der volle Funktionsumfang der Software
+     zur Verfügung, sofern nicht anders angegeben.
+
+2.3  Nach Ablauf der Testphase ist eine gültige, kostenpflichtige Lizenz
+     erforderlich, um die Software weiterhin nutzen zu können. Die Nutzung
+     der Software ohne gültige Lizenz nach Ablauf der Testphase ist
+     ausdrücklich untersagt.
+
+2.4  Ein Anspruch auf Verlängerung der Testphase besteht nicht. Der
+     Lizenzgeber behält sich vor, die Dauer und Bedingungen der Testphase
+     jederzeit zu ändern.
+
+2.5  Die Bestimmungen dieser Vereinbarung – insbesondere die
+     Haftungsausschlüsse und Risikohinweise – gelten auch während der
+     Testphase uneingeschränkt.
+
+================================================================================
+§ 3 – LIZENZSCHLÜSSEL UND AKTIVIERUNG
+================================================================================
+
+3.1  Nach Erwerb einer kostenpflichtigen Lizenz erhält der Lizenznehmer
+     einen persönlichen Lizenzschlüssel. Dieser Schlüssel ist an den
+     Lizenznehmer persönlich gebunden (personengebundene Einzellizenz).
+
+3.2  Jeder Lizenzschlüssel berechtigt zur Nutzung auf EINEM (1) Endgerät.
+     Eine gleichzeitige Nutzung auf mehreren Geräten ist nicht gestattet,
+     sofern nicht ausdrücklich durch eine entsprechende Mehrlizenz
+     vereinbart.
+
+3.3  Der Lizenzschlüssel darf nicht:
+     a) an Dritte weitergegeben, verkauft, verliehen oder veröffentlicht
+        werden;
+     b) in Foren, sozialen Medien, Websites oder anderen öffentlich
+        zugänglichen Medien geteilt werden;
+     c) auf Systemen verwendet werden, die nicht dem Lizenznehmer gehören,
+        ohne ausdrückliche Genehmigung des Lizenzgebers.
+
+3.4  Bei nachgewiesenem Missbrauch eines Lizenzschlüssels behält sich der
+     Lizenzgeber das Recht vor, den betreffenden Schlüssel ohne
+     Vorankündigung und ohne Erstattung zu sperren.
+
+3.5  Bei Verlust eines Lizenzschlüssels oder bei einem berechtigten
+     Gerätewechsel kann ein Ersatzschlüssel beim Lizenzgeber per E-Mail
+     angefordert werden. Der Lizenzgeber behält sich eine angemessene
+     Prüfung vor.
+
+================================================================================
+§ 4 – EINSCHRÄNKUNGEN UND VERBOTE
+================================================================================
+
+Der Lizenznehmer darf NICHT:
+
+4.1  Die Software ganz oder teilweise kopieren, vervielfältigen, verbreiten
+     oder öffentlich zugänglich machen, es sei denn, es handelt sich um
+     eine einzelne Sicherungskopie für persönliche Archivierungszwecke.
+
+4.2  Die Software dekompilieren, disassemblieren, zurückentwickeln (Reverse
+     Engineering), den Quellcode extrahieren oder versuchen, den Quellcode
+     auf andere Weise abzuleiten.
+
+4.3  Die Software modifizieren, anpassen, übersetzen oder abgeleitete
+     Werke auf Grundlage der Software erstellen.
+
+4.4  Die Software oder Teile davon unterlizenzieren, vermieten, verleihen,
+     verpachten, veräußern oder in anderer Weise kommerziell verwerten.
+
+4.5  Technische Schutzmechanismen, Kopierschutz, Lizenzmechanismen,
+     digitale Wasserzeichen oder sonstige Sicherheitsmaßnahmen der
+     Software umgehen, entfernen, deaktivieren oder manipulieren.
+
+4.6  Die Software in einer Weise nutzen, die gegen geltendes Recht,
+     insbesondere gegen Finanzmarktregulierungen, Geldwäschevorschriften
+     oder Sanktionsbestimmungen, verstößt.
+
+4.7  Die Software für Zwecke einsetzen, die darauf abzielen, Broker-
+     Plattformen, Börsen oder andere Dritte zu manipulieren, zu
+     beeinträchtigen oder zu schädigen.
+
+4.8  Automatisierte Systeme (z. B. Bots, Scraper) einsetzen, um den
+     Lizenz- oder Aktivierungsmechanismus zu umgehen.
+
+================================================================================
+§ 5 – HAFTUNGSAUSSCHLUSS
+================================================================================
+
+5.1  BEREITSTELLUNG "WIE BESEHEN" (AS IS)
+
+     Die Software wird "wie besehen" ("as is") und "wie verfügbar"
+     ("as available") ohne jegliche ausdrückliche oder stillschweigende
+     Gewährleistung bereitgestellt. Der Lizenzgeber übernimmt insbesondere
+     keine Gewährleistung für:
+
+     a) die Fehlerfreiheit, Vollständigkeit oder Zuverlässigkeit der
+        Software;
+     b) die ununterbrochene oder störungsfreie Verfügbarkeit der Software;
+     c) die Eignung der Software für einen bestimmten Zweck;
+     d) die Kompatibilität mit bestimmten Betriebssystemen, Hardware,
+        Brokern, Telegram-Versionen oder Drittanbieter-Diensten;
+     e) die Richtigkeit, Vollständigkeit oder Aktualität der von der
+        Software verarbeiteten Handelssignale;
+     f) die erfolgreiche Ausführung von Handelsaufträgen bei Brokern.
+
+5.2  DER LIZENZGEBER HAFTET NICHT FÜR:
+
+     a) direkte oder indirekte Schäden jeglicher Art, die aus der Nutzung
+        oder der Unfähigkeit zur Nutzung der Software entstehen;
+     b) finanzielle Verluste, entgangene Gewinne oder Vermögensschäden
+        jeglicher Art, die im Zusammenhang mit der Nutzung der Software
+        stehen;
+     c) Schäden, die durch Fehlfunktionen, Abstürze, Ausfälle oder
+        unvorhergesehenes Verhalten der Software entstehen;
+     d) Schäden, die durch fehlerhafte, verspätete, nicht ausgeführte oder
+        falsch ausgeführte Handelsaufträge entstehen;
+     e) Schäden, die durch Ausfälle oder Änderungen von Drittanbieter-
+        Diensten (Broker-APIs, Telegram API, Internetverbindung) entstehen;
+     f) Schäden, die durch unbefugten Zugriff auf API-Schlüssel,
+        Zugangsdaten oder Konfigurationsdateien des Nutzers entstehen;
+     g) Schäden, die durch Fehlinterpretation von Handelssignalen,
+        falsche Signalformate oder fehlerhafte Signal-Quellen entstehen;
+     h) Schäden, die durch Latenz, Netzwerkprobleme, Server-Ausfälle bei
+        Brokern oder anderen technischen Störungen entstehen;
+     i) Schäden durch Kursveränderungen zwischen Signalempfang und
+        Orderausführung (Slippage);
+     j) Datenverlust jeglicher Art.
+
+5.3  HAFTUNGSBESCHRÄNKUNG
+
+     Die Gesamthaftung des Lizenzgebers – gleich aus welchem Rechtsgrund –
+     ist in jedem Fall auf den Betrag beschränkt, den der Lizenznehmer
+     tatsächlich für die Lizenz der Software gezahlt hat. Dies gilt nicht,
+     soweit der Lizenzgeber gesetzlich zwingend haftet (insbesondere bei
+     Vorsatz, grober Fahrlässigkeit oder der Verletzung von Leben, Körper
+     oder Gesundheit gemäß §§ 309 Nr. 7, 276 BGB).
+
+5.4  Die vorstehenden Haftungsausschlüsse und -beschränkungen gelten auch
+     dann, wenn der Lizenzgeber auf die Möglichkeit solcher Schäden
+     hingewiesen wurde.
+
+================================================================================
+§ 6 – RISIKOHINWEIS ZUM AUTOMATISIERTEN HANDEL
+================================================================================
+
+6.1  ALLGEMEINER RISIKOHINWEIS
+
+     Der Handel mit Kryptowährungen, Derivaten, Futures, CFDs, Aktien und
+     anderen Finanzinstrumenten birgt ERHEBLICHE RISIKEN bis hin zum
+     TOTALVERLUST des eingesetzten Kapitals. Gehebelte Produkte
+     (insbesondere Futures und CFDs) können zu Verlusten führen, die die
+     ursprüngliche Einlage ÜBERSTEIGEN.
+
+6.2  RISIKEN DES AUTOMATISIERTEN HANDELS
+
+     Der Einsatz automatisierter Handelssysteme birgt zusätzliche,
+     spezifische Risiken, darunter insbesondere:
+
+     a) Technisches Versagen: Softwarefehler, Abstürze, Speicherprobleme
+        oder unvorhergesehenes Verhalten können zu fehlerhaften oder nicht
+        ausgeführten Handelsaufträgen führen.
+     b) Signalqualität: Die Software führt Aufträge auf Grundlage der
+        empfangenen Telegram-Signale aus. Fehlerhafte, verspätete, unklare
+        oder manipulierte Signale können zu erheblichen Verlusten führen.
+        Der Lizenzgeber hat keinen Einfluss auf die Qualität oder
+        Zuverlässigkeit der Signal-Quellen.
+     c) Verbindungsprobleme: Unterbrechungen der Internetverbindung,
+        Ausfälle der Telegram-API oder der Broker-API können dazu führen,
+        dass Aufträge nicht, verspätet oder fehlerhaft ausgeführt werden.
+     d) Slippage und Marktbedingungen: Zwischen dem Empfang eines Signals
+        und der tatsächlichen Orderausführung können Kursbewegungen
+        auftreten, die zu abweichenden Ausführungspreisen führen.
+     e) Konfigurationsfehler: Fehlerhafte Einstellungen (z. B. falsches
+        Handelspaar, falscher Hebel, falsche Positionsgröße, vertauschte
+        Testnet-/Live-Einstellungen) können zu unbeabsichtigten Verlusten
+        führen.
+     f) Mehrfachausführungen: Unter bestimmten Umständen (z. B.
+        doppelte Signale, Neustarts) können Aufträge mehrfach ausgeführt
+        werden.
+     g) Stop-Loss/Take-Profit-Fehler: Es kann nicht garantiert werden,
+        dass Stop-Loss- oder Take-Profit-Aufträge in jedem Fall korrekt
+        gesetzt oder ausgelöst werden, insbesondere bei hoher
+        Marktvolatilität oder Broker-seitigen Einschränkungen.
+
+6.3  KEINE ANLAGEBERATUNG
+
+     EdgeTrader ist ein rein technisches Werkzeug. Die Software und der
+     Lizenzgeber stellen KEINE Anlageberatung, Finanzanalyse,
+     Handelsempfehlung oder Aufforderung zum Kauf oder Verkauf von
+     Finanzinstrumenten dar. Jede Handelsentscheidung liegt ausschließlich
+     beim Nutzer.
+
+6.4  EIGENVERANTWORTUNG
+
+     Der Nutzer handelt ausschließlich auf eigenes Risiko und eigene
+     Verantwortung. Der Lizenzgeber empfiehlt dringend:
+
+     a) die Software zunächst ausgiebig im Testnet-Modus (Demokonto) zu
+        testen, bevor Live-Handel aktiviert wird;
+     b) nur mit Kapital zu handeln, dessen vollständigen Verlust sich der
+        Nutzer leisten kann;
+     c) alle Handelsaktivitäten regelmäßig zu überwachen und nicht
+        unbeaufsichtigt zu lassen;
+     d) sich vor Aufnahme des Handels über die geltenden Gesetze und
+        Regulierungen in seiner Rechtsordnung zu informieren;
+     e) bei Bedarf unabhängige Finanz- und Rechtsberatung einzuholen.
+
+6.5  VERGANGENE ERGEBNISSE
+
+     Vergangene Handelsergebnisse, Renditen oder Signalquoten stellen
+     KEINE Garantie oder zuverlässige Prognose für zukünftige Ergebnisse
+     dar.
+
+================================================================================
+§ 7 – API-SCHLÜSSEL, DATENSPEICHERUNG UND SICHERHEIT
+================================================================================
+
+7.1  LOKALE DATENSPEICHERUNG
+
+     EdgeTrader speichert alle Konfigurationsdaten, einschließlich
+     API-Schlüssel (API Keys und Secrets), Broker-Zugangsdaten,
+     Telegram-Sitzungsdaten, Handelseinstellungen und -historien,
+     AUSSCHLIESSLICH lokal auf dem Computer des Nutzers im Verzeichnis:
+
+         %APPDATA%\EdgeTrader
+
+     Es findet KEINE Übertragung dieser Daten an Server des Lizenzgebers,
+     an Cloud-Dienste oder an sonstige Dritte statt.
+
+7.2  TELEGRAM-API-NUTZUNG
+
+     Die Software nutzt die Telegram-API über die eigene Sitzung
+     (Session) des Nutzers, um Nachrichten aus Signal-Kanälen zu empfangen.
+     Der Nutzer ist für die Einhaltung der Nutzungsbedingungen von Telegram
+     selbst verantwortlich. Der Lizenzgeber übernimmt keine Haftung für
+     Sperrungen, Einschränkungen oder sonstige Maßnahmen seitens Telegram.
+
+7.3  VERANTWORTUNG DES NUTZERS
+
+     Der Lizenznehmer ist selbst und allein verantwortlich für:
+
+     a) die sichere Aufbewahrung und Verwaltung seiner API-Schlüssel,
+        Passwörter und Zugangsdaten;
+     b) die korrekte Konfiguration der Berechtigungen seiner API-Schlüssel
+        bei den jeweiligen Brokern (z. B. IP-Whitelisting, Beschränkung
+        auf Handel ohne Auszahlungsberechtigung);
+     c) den Schutz seines Computers vor unbefugtem Zugriff, Malware,
+        Viren und sonstigen Sicherheitsbedrohungen;
+     d) die regelmäßige Aktualisierung seines Betriebssystems und seiner
+        Sicherheitssoftware;
+     e) die Sicherung (Backup) seiner Konfigurationsdaten.
+
+7.4  EMPFEHLUNGEN ZUR SICHERHEIT
+
+     Der Lizenzgeber empfiehlt dringend:
+
+     a) API-Schlüssel bei allen Brokern so einzuschränken, dass KEINE
+        Auszahlungen möglich sind (nur Handelsberechtigung);
+     b) falls vom Broker unterstützt, IP-Whitelisting zu aktivieren;
+     c) Zwei-Faktor-Authentifizierung (2FA) für alle Broker-Konten zu
+        aktivieren;
+     d) API-Schlüssel regelmäßig zu erneuern;
+     e) die Software nicht auf öffentlich zugänglichen oder gemeinsam
+        genutzten Computern zu betreiben.
+
+7.5  Der Lizenzgeber übernimmt keinerlei Haftung für Schäden, die durch
+     den Verlust, Diebstahl, die Offenlegung oder den Missbrauch von
+     API-Schlüsseln oder sonstigen Zugangsdaten des Nutzers entstehen.
+
+================================================================================
+§ 8 – DRITTANBIETER-DIENSTE
+================================================================================
+
+8.1  EdgeTrader interagiert mit Diensten und Plattformen Dritter,
+     insbesondere:
+     - Telegram (Messaging-Plattform)
+     - Verschiedenen Kryptowährungs- und Aktienbrokern
+     - Deren jeweiligen APIs (Application Programming Interfaces)
+
+8.2  Der Lizenzgeber ist NICHT verbunden, assoziiert, autorisiert,
+     unterstützt oder in irgendeiner Weise offiziell mit Telegram, Binance,
+     Bybit, OKX, Alpaca, Interactive Brokers, MetaQuotes (MetaTrader 5)
+     oder sonstigen genannten Drittanbieter-Plattformen verbunden.
+
+8.3  Die Nutzung der Drittanbieter-Dienste unterliegt den jeweiligen
+     Nutzungsbedingungen, Datenschutzrichtlinien und sonstigen
+     Vereinbarungen dieser Anbieter. Der Lizenznehmer ist selbst dafür
+     verantwortlich, diese Bedingungen zu kennen, einzuhalten und zu
+     prüfen, ob die automatisierte Nutzung über EdgeTrader dort gestattet
+     ist.
+
+8.4  Der Lizenzgeber übernimmt keine Haftung für:
+     a) Änderungen, Einschränkungen oder Einstellungen von
+        Drittanbieter-APIs;
+     b) Sperrungen von Nutzerkonten bei Drittanbietern;
+     c) Gebühren, Kosten oder finanzielle Konsequenzen, die durch die
+        Nutzung der Drittanbieter-Dienste entstehen;
+     d) Datenverluste oder Sicherheitsvorfälle bei Drittanbietern.
+
+================================================================================
+§ 9 – GEISTIGES EIGENTUM / URHEBERRECHT
+================================================================================
+
+9.1  Die Software EdgeTrader, einschließlich aller Bestandteile (Quellcode,
+     Objektcode, Bibliotheken, Grafiken, Icons, Benutzeroberfläche, Texte,
+     Dokumentation und Datenbanken), ist urheberrechtlich geschützt und
+     steht im alleinigen Eigentum des Lizenzgebers.
+
+9.2  Alle Marken, Markennamen, Logos und Handelsbezeichnungen, die in der
+     Software oder Dokumentation verwendet werden, sind Eigentum ihrer
+     jeweiligen Inhaber. Deren Verwendung in dieser Software stellt keine
+     Genehmigung, Empfehlung oder Verbindung durch den jeweiligen Inhaber
+     dar.
+
+9.3  Diese Vereinbarung gewährt dem Lizenznehmer keinerlei Rechte an dem
+     geistigen Eigentum des Lizenzgebers, außer dem ausdrücklich in § 1
+     gewährten eingeschränkten Nutzungsrecht.
+
+================================================================================
+§ 10 – BEENDIGUNG DER LIZENZ
+================================================================================
+
+10.1 Diese Lizenzvereinbarung tritt mit der Installation oder ersten
+     Nutzung der Software in Kraft und bleibt gültig, bis sie von einer
+     der Parteien beendet wird.
+
+10.2 AUTOMATISCHE BEENDIGUNG:
+     Diese Lizenz wird automatisch und ohne Vorankündigung beendet, wenn
+     der Lizenznehmer gegen eine oder mehrere Bedingungen dieser
+     Vereinbarung verstößt.
+
+10.3 BEENDIGUNG DURCH DEN LIZENZGEBER:
+     Der Lizenzgeber behält sich das Recht vor, die Lizenz und/oder den
+     Lizenzschlüssel jederzeit und aus wichtigem Grund zu widerrufen,
+     insbesondere bei:
+     a) Verstoß gegen die Nutzungsbedingungen;
+     b) Missbrauch des Lizenzschlüssels;
+     c) Nutzung der Software für rechtswidrige Zwecke;
+     d) Versuchen, technische Schutzmechanismen zu umgehen.
+
+10.4 BEENDIGUNG DURCH DEN LIZENZNEHMER:
+     Der Lizenznehmer kann diese Vereinbarung jederzeit beenden, indem er
+     die Software und alle zugehörigen Dateien (einschließlich
+     Konfigurationsdaten in %APPDATA%\EdgeTrader) vollständig von seinem
+     Computer löscht.
+
+10.5 PFLICHTEN BEI BEENDIGUNG:
+     Bei Beendigung dieser Vereinbarung – gleich aus welchem Grund – ist
+     der Lizenznehmer verpflichtet:
+     a) die Nutzung der Software sofort einzustellen;
+     b) alle Kopien der Software (einschließlich Sicherungskopien)
+        unverzüglich und vollständig zu löschen;
+     c) auf Verlangen des Lizenzgebers die vollständige Löschung
+        schriftlich zu bestätigen.
+
+10.6 Die Bestimmungen, die ihrer Natur nach über die Beendigung dieser
+     Vereinbarung hinaus fortgelten sollen (insbesondere §§ 5, 6, 7, 9),
+     behalten ihre Gültigkeit auch nach Beendigung.
+
+================================================================================
+§ 11 – AKTUALISIERUNGEN UND ÄNDERUNGEN
+================================================================================
+
+11.1 Der Lizenzgeber kann die Software jederzeit aktualisieren, verändern,
+     erweitern oder Funktionen entfernen. Es besteht kein Anspruch auf
+     bestimmte Funktionalitäten, Aktualisierungen oder Support.
+
+11.2 Der Lizenzgeber behält sich das Recht vor, diese Lizenzvereinbarung
+     jederzeit zu ändern. Änderungen werden dem Lizenznehmer in geeigneter
+     Form (z. B. per E-Mail, innerhalb der Software oder auf der
+     Download-Seite) mitgeteilt. Die fortgesetzte Nutzung der Software
+     nach Mitteilung der Änderungen gilt als Zustimmung zu den geänderten
+     Bedingungen.
+
+================================================================================
+§ 12 – ANWENDBARES RECHT UND GERICHTSSTAND
+================================================================================
+
+12.1 Diese Vereinbarung unterliegt ausschließlich dem Recht der
+     Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts
+     (CISG) und unter Ausschluss der Kollisionsnormen des internationalen
+     Privatrechts.
+
+12.2 Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit
+     dieser Vereinbarung ist Dinkelsbühl, Deutschland, soweit gesetzlich
+     zulässig.
+
+12.3 Für Verbraucher mit gewöhnlichem Aufenthalt in der Europäischen Union
+     gelten ergänzend die zwingenden Verbraucherschutzvorschriften des
+     Staates ihres gewöhnlichen Aufenthalts, soweit diese für den
+     Verbraucher günstiger sind.
+
+================================================================================
+§ 13 – DATENSCHUTZHINWEIS
+================================================================================
+
+13.1 Zur Lizenzvalidierung und -aktivierung können folgende Daten
+     verarbeitet werden:
+     - Lizenzschlüssel
+     - Geräte-Identifikationsmerkmale (z. B. Hardware-ID)
+     - Zeitpunkt der Aktivierung
+
+13.2 Darüber hinaus werden vom Lizenzgeber keine personenbezogenen Daten
+     des Nutzers erhoben, gespeichert oder verarbeitet. Es findet keine
+     Übermittlung von Handels-, Konfigurations- oder Nutzungsdaten an den
+     Lizenzgeber statt.
+
+13.3 Für die Verarbeitung personenbezogener Daten durch Drittanbieter
+     (insbesondere Broker und Telegram) gelten deren jeweilige
+     Datenschutzrichtlinien.
+
+================================================================================
+§ 14 – EXPORTKONTROLLE UND COMPLIANCE
+================================================================================
+
+14.1 Der Lizenznehmer verpflichtet sich, die Software nicht in Länder oder
+     an Personen zu exportieren oder zugänglich zu machen, gegen die
+     Wirtschaftssanktionen der Europäischen Union, der Bundesrepublik
+     Deutschland oder anderer anwendbarer Rechtsordnungen bestehen.
+
+14.2 Der Lizenznehmer ist selbst dafür verantwortlich, die Einhaltung
+     aller für ihn geltenden Gesetze und Vorschriften im Zusammenhang mit
+     dem Handel mit Finanzinstrumenten sicherzustellen, einschließlich
+     steuerlicher Pflichten, Meldepflichten und regulatorischer
+     Anforderungen.
+
+================================================================================
+§ 15 – SALVATORISCHE KLAUSEL UND SCHLUSSBESTIMMUNGEN
+================================================================================
+
+15.1 Sollte eine oder mehrere Bestimmungen dieser Vereinbarung ganz oder
+     teilweise unwirksam oder undurchführbar sein oder werden, so wird die
+     Wirksamkeit der übrigen Bestimmungen hiervon nicht berührt. An die
+     Stelle der unwirksamen oder undurchführbaren Bestimmung tritt eine
+     wirksame Bestimmung, die dem wirtschaftlichen Zweck der unwirksamen
+     Bestimmung am nächsten kommt.
+
+15.2 Diese Vereinbarung stellt die vollständige Vereinbarung zwischen den
+     Parteien in Bezug auf den Gegenstand dieser Vereinbarung dar und
+     ersetzt alle vorherigen mündlichen oder schriftlichen Vereinbarungen,
+     Zusicherungen und Absprachen.
+
+15.3 Änderungen und Ergänzungen dieser Vereinbarung bedürfen der
+     Textform. Dies gilt auch für die Aufhebung dieses Textformerfordernisses.
+
+15.4 Sollte der Lizenzgeber ein Recht aus dieser Vereinbarung nicht oder
+     nicht sofort ausüben, gilt dies nicht als Verzicht auf dieses Recht.
+
+15.5 Im Falle von Widersprüchen zwischen einer übersetzten Fassung dieser
+     Vereinbarung und der deutschen Originalfassung hat die deutsche
+     Fassung Vorrang.
+
+================================================================================
+
+© 2026 BP-Shops – Philip Babuda
+Alle Rechte vorbehalten.
+
+Kontakt: reklamation@bp-shops.com
+Stand: Februar 2026
+
+================================================================================

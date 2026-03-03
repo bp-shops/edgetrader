@@ -1,0 +1,44 @@
+# ── Build-Artefakte ──────────────────────────────
+build/
+dist/
+installer_output/
+protected/
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+*.manifest
+*.spec.bak
+
+# ── IDE / Editor ─────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS ───────────────────────────────────────────
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ── Sensible Dateien (NIEMALS commiten!) ─────────
+edgetrader_config.json
+*.session
+*.dat
+*.env
+.env
+credentials.json
+secrets.json
+
+# ── Entwickler-Tools (NUR lokal!) ────────────────
+keygen.py
+update_gist.py
+
+# ── Temporäre Dateien ────────────────────────────
+*.log
+*.tmp
+*.bak
+
+# ── Claude ───────────────────────────────────────
+.claude/
