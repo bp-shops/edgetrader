@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "download_url": "https://github.com/bp-shops/edgetrader/releases/latest/download/EdgeTrader_Setup.exe",
-  "changelog": "Multi-Profile (10 Bots), TP/SL Toggles, Multi-TP, Trailing TP, Trade History, Dashboard"
+  "changelog": "Lizenz-System v2, Hedge Mode, Position Recovery, Auto-Updater v2, SSL-Fix, Limit/Stop Auto-Conversion"
 }

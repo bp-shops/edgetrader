@@ -14,7 +14,7 @@ from license_manager import (
 from updater import check_for_update, download_and_install
 from trade_history import TradeHistory
 
-VERSION = "1.1.0"
+VERSION = "1.2.0"
 
 # ── Pfade ────────────────────────────────────────────────
 def get_app_dir() -> str:

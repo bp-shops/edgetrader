@@ -8,7 +8,7 @@
 ; ══════════════════════════════════════════════════════════
 
 #define MyAppName "EdgeTrader"
-#define MyAppVersion "1.1.0"
+#define MyAppVersion "1.2.0"
 #define MyAppPublisher "Philip Babuda"
 #define MyAppURL "https://edgetrader.de"
 #define MyAppExeName "EdgeTrader.exe"

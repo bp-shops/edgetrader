@@ -25,7 +25,7 @@ PRODUKT
 ────────────────────────────────────────────────────────────────────────────────
 
   Produktname:   EdgeTrader – Universal Signal Bot
-  Version:       1.1.0
+  Version:       1.2.0
   Kategorie:     Automatisierte Handelssoftware (Trading Bot)
 
   Beschreibung:
